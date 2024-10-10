@@ -1,4 +1,4 @@
-# Card-Generator-2023-
+# Card-Generator-2024-
 Random Card Dealer in Javascript, HTML and CSS
 
 In this project, you will learn how to change your website styles during the runtime using VanillaJS (plain normal js).
